@@ -6,8 +6,8 @@ https://bucheli-web-development-react-course-animal-fun-facts.netlify.app/
 
 ## Topics studied in this project: 
 * import backend files.
-* writting event handlers as functions that take an event parameter.
+* writting event listeners as functions that take an event parameter.
 * use of event.target.
 * jsx conditionals.
-* passing event handlers as attributes.
+* passing event listeners as attributes.
 
