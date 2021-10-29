@@ -10,4 +10,4 @@ https://bucheli-web-development-react-course-animal-fun-facts.netlify.app/
 * use of event.target.
 * jsx conditionals.
 * passing event handlers as attributes.
-* 
+
